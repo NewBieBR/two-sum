@@ -16,7 +16,7 @@ return [0, 1].
 
 ## Solution
 
-Check `solution.cpp`
+Check `solution.cpp` for code and detailed explanation.
 
 **Complexity Analysis**:
 
