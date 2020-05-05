@@ -20,8 +20,8 @@ Check `solution.cpp`
 
 **Complexity Analysis**:
 
-- Time complexity : O(n).
+- Time complexity : **O(n)**.
 We iterate the list containing n elements only once. Each look up in the table costs only O(1) time since we use an **unordered_map**.
 
-- Space complexity : O(n).
+- Space complexity : **O(n)**.
 The space required depends on the number of items stored in the hash table, which stores n elements in the worst case scenario.
